@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "development": "childcare-hotel-prod",
+    "production": "childcare-hotel-prod"
+  }
+}
