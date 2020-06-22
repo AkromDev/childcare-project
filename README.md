@@ -1,1 +1,1 @@
-# Child Care Center built with NodeJS, SQL, ReactJS
+# Child Care Center Project for University class
