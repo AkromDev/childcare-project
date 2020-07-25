@@ -1,5 +1,7 @@
 # Child Care Center Project for University class
 
+### Note!! The website might load slowly for the first time due to cold start of serverless function. 
+
 Live: https://childcare-hotel-prod.web.app/
 
 Manager Account for testing:
